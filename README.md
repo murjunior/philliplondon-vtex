@@ -3,6 +3,6 @@ Repositório com necessidades pontuais do ecommerce Philliplondon utilizando Vte
 
 -------------
 
-1. **UTM.JS** 
+1. **UTM.js** 
 
 Este código é responsável por carregar a UTM de qualquer link para o checkout, que por sua vez é demonstrado no dashboard da Vtex na área de vendas as informações "parceiro, campanha, mídia".
